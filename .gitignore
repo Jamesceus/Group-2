@@ -1,2 +1,4 @@
 # File that stores private API keys
 .env
+
+__pycache__
